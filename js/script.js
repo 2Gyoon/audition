@@ -74,8 +74,6 @@ $(document).ready(function(){
         $("#sec_04 .wrap .cont .box .actor_img .actor_info").removeClass("hover");
     });
 
-    //72번째에 74번째랑 똑같이 $index를 사용해서 했을때는 박스가 들어오고나서 다시 나가지 않는데, 
-    //똑같은 박스를 선택하고 해제한건데 왜 들어가는건 안될까요?ㅠ 애초에 이렇게 하는건지는 잘 모르겠지만ㅎㅎ
 
 
 
